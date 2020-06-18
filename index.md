@@ -1,11 +1,29 @@
-## Welcome to GitHub Pages
+# Это главная страница документации Steam Flyer
+> Это тестовая версия.
+> По мере заполнения - проставлю чекбоксы  напротив готовых пунтков.
+> Все обсуждение ведется в телеграмме.
+## Правила заполнения документации:
+* Общее описание пункта.
+* Списки.
+* Оглавления.
 
-You can use the [editor on GitHub](https://github.com/ksemele/steam_flyer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Current documentation:
+* Pitch кратко об игре.
+* Игровые механики
+* Сюжет и описание персонажей.
+* Квесты.
+* Игровой баланс. Таблицы баланса, обсуждение с кодерами, в каком формате вести.
+* Требования к арту. Часть от арт-директора - визуал. Часть от прогеров - форматы, количество и т.д.
+* Идеи для обсуждения.
+* Описание интерфейсов.
+* Планирование задач по проекту.
+* Словарь терминов. Что такое уровень в игре, этаж, блок и т.д.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+------------------------------------------------------------------------------------------------------
 
-### Markdown
+### Немного о Markdown
 
+Можно редактировать [прямо на GitHub](https://github.com/ksemele/steam_flyer/edit/master/index.md)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -21,17 +39,12 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+- [ ] test checkbox
+- [x] test closed
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ksemele/steam_flyer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Мануал >> [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
